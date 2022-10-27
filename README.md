@@ -1,2 +1,2 @@
-# test-repos
+# test-repository
 test
